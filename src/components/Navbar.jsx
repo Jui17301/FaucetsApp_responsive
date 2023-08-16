@@ -126,6 +126,11 @@ Polygon Mumbai</Dropdown.Item>
         <FaRegUserCircle  />
         </div>
     </Dropdown>
+
+    {/* styles starts here */}
+    
+
+    {/* ends here */}
       </Container>
     </Navbar>
 
